@@ -26,6 +26,8 @@ dependencies {
     implementation(platform("io.insert-koin:koin-annotations-bom:1.3.1")) // BOM
     implementation("io.insert-koin:koin-annotations") // Annotations
     ksp("io.insert-koin:koin-ksp-compiler:1.3.1") // KSP Compiler
+    // Serialización JSON
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
     // Logger
     implementation("org.lighthousegames:logging:1.3.0")
     implementation("ch.qos.logback:logback-classic:1.4.14")
