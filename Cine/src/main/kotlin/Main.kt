@@ -13,7 +13,6 @@ import org.example.module.storageModule
 import org.example.productos.repositorio.ProductosRepositorio
 import org.example.productos.validador.ProductoValidador
 import org.koin.core.annotation.KoinExperimentalAPI
-import org.koin.core.component.KoinComponent
 import org.koin.core.context.GlobalContext.startKoin
 import org.koin.fileProperties
 import org.koin.ksp.generated.defaultModule
