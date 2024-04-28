@@ -1,0 +1,18 @@
+nombre,stock,categoria,precio
+Coca-Cola,100,BEBIDA,1.50
+Pepsi,80,BEBIDA,1.25
+Sprite,120,BEBIDA,1.75
+Pizza,50,COMIDA,8.99
+Hamburguesa,60,COMIDA,6.49
+Hot Dog,70,COMIDA,4.99
+Cerveza,90,BEBIDA,2.99
+Vino,40,BEBIDA,12.99
+Galletas,110,COMIDA,3.49
+Agua,150,BEBIDA,0.99
+Refresco de Limón,70,BEBIDA,1.75
+Patatas Fritas,80,COMIDA,2.49
+Helado,60,COMIDA,4.99
+Jugo de Naranja,100,BEBIDA,2.25
+Pizza Pepperoni,40,COMIDA,9.99
+Refresco de Manzana,90,BEBIDA,1.75
+Palomitas de Maíz,120,COMIDA,3.99
