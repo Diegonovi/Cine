@@ -49,7 +49,7 @@ class ButacaServiceImpl(
      */
     override fun findById(id: String): Result<Butaca, ButacaError> {
         butacaRepositorio.findById(id)?.let {
-            Ok(it)
+            return Ok(it)
         }
         return Err(ButacaError.ButacaNotFoundError("La butaca con ID $id no existe"))
     }
